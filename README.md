@@ -83,4 +83,3 @@ The E-Voting System is designed to facilitate online elections by allowing users
 | Method       | Endpoint         | Description                                   |
 | ------------ |:-----------------|:----------------------------------------------|
 | POST         | /winner/election | Retrieves the winning choice for an election. |
-
